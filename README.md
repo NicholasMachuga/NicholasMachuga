@@ -1,24 +1,24 @@
 # MachugaN
-Nicholas Machuga's GitHub
-Currently, I am...
-Education
-📖 Studying at University of South Florida
-   Pursuing a Bachelors in Data Science and Analytics
-   Pursuing a Minor in Economics (With a Quantitative Focus)
-🌱 Completed / Current Courses:
-R Programming for Data Science
-Visual Analytics
-Predictive Analytics
-Advanced Statistics and Analytics
-Database Management(SQL)
-Econometrics
-Time Series Analysis
-🏔 Living in Tampa, Florida
-Skills
-Python (pandas, numpy, sklearn)
-R Programming
-SQL
-Data ETL and Modeling
-Econometrics and Economic Theory
-Tableau and PowerBI for Data Visualization
-Problem Solving and Teamwork
+Nicholas Machuga's GitHub <br />
+Currently, I am... <br />
+Education<br />
+📖 Studying at University of South Florida<br />
+   Pursuing a Bachelors in Data Science and Analytics<br />
+   Pursuing a Minor in Economics (With a Quantitative Focus)<br />
+🌱 Completed / Current Courses:<br />
+R Programming for Data Science<br />
+Visual Analytics<br />
+Predictive Analytics<br />
+Advanced Statistics and Analytics<br />
+Database Management(SQL)<br />
+Econometrics<br />
+Time Series Analysis<br />
+🏔 Living in Tampa, Florida<br />
+Skills<br />
+Python (pandas, numpy, sklearn)<br />
+R Programming<br />
+SQL<br />
+Data ETL and Modeling<br />
+Econometrics and Economic Theory<br />
+Tableau and PowerBI for Data Visualization<br />
+Problem Solving and Teamwork<br />

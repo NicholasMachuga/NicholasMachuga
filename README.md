@@ -1,24 +1,50 @@
-# MachugaN
-Nicholas Machuga's GitHub <br />
-Currently, I am... <br />
-Education<br />
-📖 Studying at University of South Florida<br />
-   Pursuing a Bachelors in Data Science and Analytics<br />
-   Pursuing a Minor in Economics (With a Quantitative Focus)<br />
-🌱 Completed / Current Courses:<br />
-R Programming for Data Science<br />
-Visual Analytics<br />
-Predictive Analytics<br />
-Advanced Statistics and Analytics<br />
-Database Management(SQL)<br />
-Econometrics<br />
-Time Series Analysis<br />
-🏔 Living in Tampa, Florida<br />
-Skills<br />
-Python (pandas, numpy, sklearn)<br />
-R Programming<br />
-SQL<br />
-Data ETL and Modeling<br />
-Econometrics and Economic Theory<br />
-Tableau and PowerBI for Data Visualization<br />
-Problem Solving and Teamwork<br />
+## John McKinstry's GitHub
+
+### Currently, I am...
+#### Education
+- 📖 Studying at **Georgia Tech** for my **Masters in Machine Learning** and I'll be graduating in **December 2022**
+- 🌱 **Completed / Current Courses**: 
+  - Reinforcement Learning
+  - Knowledge Based Artifical Intelligence
+  - Machine Learning for Trading
+  - Artifical Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Network Science
+  - Ai Ethics Society
+  - Graduate Algorithms
+  - Game Ai
+#### Location
+- 🏔 Living in Denver, CO 
+#### Development
+- 🧠 Age Estimator (as part of a group project at GTech)
+- 🧠 Personal website (for various visual applications and AWS related skill development)
+
+![](https://github.com/MckinstryJ/github-stats/blob/master/generated/languages.svg)
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MckinstryJ&show_icons=true&theme=dark)
+
+![CodeWards Badges](https://www.codewars.com/users/JohnMcKinstry/badges/large)
+
+<!--
+**MckinstryJ/MckinstryJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<!--
+### Connect with me:
+
+[<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="John's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+<br />
+
+[website]: https://gifted-ritchie-1ae5b3.netlify.app/
+[linkedin]: https://www.linkedin.com/in/john-m-39645213b/ -->

@@ -14,7 +14,7 @@
   - Time Series Analysis
   - Econometrics
   - C++ and Java Programming
-- 🌱 **Skills**: 
+-  **Skills**: 
   - Data manipulation/analysis using Python or R
   - Pandas/numpy
   - Tableau/PowerBI data visualization/dashboard creation

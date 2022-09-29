@@ -14,5 +14,11 @@
   - Time Series Analysis
   - Econometrics
   - C++ and Java Programming
+- 🌱 **Skills**: 
+  - Data manipulation/analysis using Python or R
+  - Pandas/numpy
+  - Tableau/PowerBI data visualization/dashboard creation
+  - Data pivoting
+  - ETL and Data Modeling
 #### Location
 -  Living in Tampa, FL 

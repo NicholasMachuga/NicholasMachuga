@@ -1,9 +1,9 @@
 ## Nicholas Machuga's GitHub
 
-### Currently, I am...
+### About me...
 #### Education
-- 📖 Studying at **University of South Florida** for my **Bachelor of Science in Data Science and Analytics** and a **minor in Econometrics**.I'll be graduating in **May 2023**
-- 🌱 **Completed / Current Courses**: 
+- 📖 Studied at **University of South Florida** for my **Bachelor of Science in Data Science and Analytics** and a **minor in Econometrics**.I'll be graduating in **May 2023**
+- 🌱 **Completed Courses**: 
   - Predictive Analytics
   - Data and Text Mining
   - Database Management(With SQL)

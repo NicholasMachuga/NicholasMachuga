@@ -21,4 +21,4 @@
   - Data pivoting
   - ETL and Data Modeling
 #### Location
-- 🌴 Living in Tampa, FL 
+- Living in Atlanta, Georgia 
